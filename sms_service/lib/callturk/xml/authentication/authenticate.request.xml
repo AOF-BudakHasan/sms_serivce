@@ -1,0 +1,5 @@
+<casAuthenticationWebServiceRequest>
+    <username>Username</username>
+    <password>Password</password>
+    <clientOrganizationUnitName>Organizastion Name</clientOrganizationUnitName>
+</casAuthenticationWebServiceRequest>

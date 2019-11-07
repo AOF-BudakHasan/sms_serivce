@@ -1,0 +1,12 @@
+<smsSendWebServiceRequest>
+    <accountEnumValue>Hesap Adı</accountEnumValue>
+    <channelTypeEnumValue>WEB_SERVICE</channelTypeEnumValue>
+    <customerIdValue>SOFTNEC-0001</customerIdValue>
+    <phoneNumberSet>
+        <phoneNumber>cep tel1</phoneNumber>
+        <phoneNumber>cep tel2</phoneNumber>
+    </phoneNumberSet>
+    <senderValue>Gönderen bilgisi</senderValue>
+    <smsText>Sms metini</smsText>
+    <useTurkishCharacters>true</useTurkishCharacters>
+</smsSendWebServiceRequest>

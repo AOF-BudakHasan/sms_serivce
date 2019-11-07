@@ -1,0 +1,5 @@
+<smsSendWebServiceResponse>
+    <webServiceResponseType>SUCCESS</webServiceResponseType>
+    <customerIdValue>123456789</customerIdValue>
+    <smsSendRequestId>1234</smsSendRequestId>
+</smsSendWebServiceResponse>

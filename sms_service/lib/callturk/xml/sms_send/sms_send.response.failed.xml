@@ -1,0 +1,4 @@
+<smsSendWebServiceResponse>
+    <webServiceResponseType>FAILURE</webServiceResponseType>
+    <responseMessage>VALIDATION.PHONE_BOOK_QUERY_ACCOUNT_ENUM_VALUE_NOT_FOUND_MESSAGE</responseMessage>
+</smsSendWebServiceResponse>

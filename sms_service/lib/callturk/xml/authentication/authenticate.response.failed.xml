@@ -1,0 +1,4 @@
+<authenticationWebServiceResponse>
+    <webServiceResponseType>FAILURE</webServiceResponseType> 
+    <responseMessage>VALIDATION.WRONG_PASSWORD_MESSAGE</responseMessage>
+</authenticationWebServiceResponse>
