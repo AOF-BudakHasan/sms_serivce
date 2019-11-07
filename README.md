@@ -1,12 +1,12 @@
-# Short Url
+# Sms Service
 Send text as SMS with adapters. For now only supports Callturk sender
 
 ```bash
-pip install -i https://test.pypi.org/simple/ sms-service==0.0.4
+pip install -i https://test.pypi.org/simple/ sms-service==0.0.5
 ```
 
-## Supported Services
-GoogleUrlShorter, BitLinkUrlShorter 
+## Supported Senders
+Callturk (https://www.callturk.com.tr/)
 ## Usage
 
 ```python
