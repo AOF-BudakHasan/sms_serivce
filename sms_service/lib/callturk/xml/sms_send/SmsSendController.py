@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 import os
 import requests
@@ -7,6 +5,8 @@ from xml.etree import ElementTree as ET
 from sms_service.lib.callturk import XmlResponseHandler
 from sms_service.Interfaces import InterfaceXmlController
 from sms_service.lib.callturk.EnumCallturkEndpoints import EnumCallturkEndpoint
+
+__all__ = ['SmsSendXmlController']
 
 
 class SmsSendXmlController(InterfaceXmlController):

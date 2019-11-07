@@ -2,7 +2,7 @@
 Send text as SMS with adapters. For now only supports Callturk sender
 
 ```bash
-pip install -i https://test.pypi.org/simple/ sms-service==0.0.3
+pip install -i https://test.pypi.org/simple/ sms-service==0.0.4
 ```
 
 ## Supported Services

@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sms-service",
-    version="0.0.3",
+    version="0.0.4",
     author="Hasan Budak",
     author_email="budak.hasan.apc@gmail.com",
     description="Send text as SMS with Callturk adapter",

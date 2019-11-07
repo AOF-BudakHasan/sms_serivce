@@ -3,9 +3,9 @@
 
 from sms_service.Errors import ErrorTypeError, ErrorTokenExpired, ErrorWebServiceError
 from sms_service.Interfaces import InterfaceSmsSenderAdapter
-from sms_service.lib.callturk.EnumCallturkEndpoints import EnumCallturkEndpoint
-from sms_service.lib.callturk.xml.authentication.AuthenticationXmlController import AuthenticationXmlController
-from sms_service.lib.callturk.xml.sms_send.SmsSendController import SmsSendXmlController
+from .EnumCallturkEndpoints import EnumCallturkEndpoint
+from .xml.authentication.AuthenticationXmlController import AuthenticationXmlController
+from .xml.sms_send.SmsSendController import SmsSendXmlController
 
 
 class CallturkSmsSender(InterfaceSmsSenderAdapter):
